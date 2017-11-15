@@ -2,13 +2,13 @@
 
 Eventually, the initiator of this session will close it and we'll not be able to join in anymore. Would love to see the end result posted somewhere. :)
 
-	1. who cares?
-	2. shouldn't you be working , anyway? (Yes. But this is more fun. Also, I just told folks I _am_ working.)
+	1. Who cares?
+	2. Shouldn't you be working, anyway? (Yes. But this is more fun. Also, I just told folks I _am_ working.)
 		- reconnaissance. (I work at GitHub so this is actually related to my work.)  add voice chat to this.
 
-*HERE YOU GO! [TeleTest](https://github.com/mrspeaker/teletest)*
+*HERE YOU GO! Logged for prosperity: [TeleTest](https://github.com/mrspeaker/teletest)*
 		Woo! Thanks @mrspeaker!  
-    - No problem ;) Need to automate the committing now!
+    - No problem. Need to automate the committing now - that could be a cool feature ;)
 
 PRO TIP: Hit `CTRL+SHIFT+M` (or `COMMAND+SHIFT+M` on Mac?) to render this Markdown document in another pane. It updates with all the live changes.
 
@@ -31,6 +31,7 @@ PRO TIP: Hit `CTRL+SHIFT+M` (or `COMMAND+SHIFT+M` on Mac?) to render this Markdo
  It seems like sometimes you can steal someone's cursor... occasionally the position jumps.
 
 Wouldn't you rather play a nice game of chess?
+- Global thermonuclear war.
 - Baby steps, let's do tic tac toe first 😉
 
 Guessing game: I'm thinking of a number between 0 and Number.MAX_VALUE?
@@ -43,7 +44,7 @@ Guessing game: I'm thinking of a number between 0 and Number.MAX_VALUE?
 
 **Neat work on Teletype yo! :thumbs_up:**
 
-- Google Wave 2.0! <-- notice what happens when I put an ampersand (what?) (give it a try)(where?)
+- Google Wave 2.0! <-- notice what happens when I put an ampersand (what?) (give it a try)(where?)(between W and a)
 		- that's an issue with the markdown highlighting.yup. issue raised already.
 - Google Wave was da bomb! (+1... sad it died)
 🎊🎉
@@ -68,17 +69,14 @@ __Can anyone create new files? Or only edit existing?__
 Glad you are liking it! :)
 
 __What software would you use for group voice chat?  That seems to be the only missing part of a true collaboration.  Discord?__
-^riot.im seems interesting
-^ While building Teletype, we used Slack calls for voice chat. Given that we're using WebRTC for peer-to-peer communication, we'd love to see voice chat integrated into Teletype one day. 🤞
-^ yeah, please get on that next before Microsoft beats you to that feature.. or jetbrains
-^^ Should integrate with VSCode too, so doesn't matter which editor you're using can collaborate ;)
-^^^ Could that work if there was a plugin that used teletype-crdt?
-^^^^ Teletype uses WebRTC to connect collaborators, which means that all transfers are peer-to-peer,
-except an initial handshake relying on GitHub’s servers. To ensure privacy, all
-data transfers are encrypted and never hit GitHub servers.  Research and development
-begin in nineteen ninety eight when the Undertaker threw Mankind off Hell In A Cell,
-and plummeted 16ft through an announcer's table.
-^ Hmm... I *was* following, but the explanation goes a bit over my head in the middle there.
+
+* ^riot.im seems interesting
+* ^ While building Teletype, we used Slack calls for voice chat. Given that we're using WebRTC for peer-to-peer communication, we'd love to see voice chat integrated into Teletype one day. 🤞
+* ^ yeah, please get on that next before Microsoft beats you to that feature.. or jetbrains
+* ^^ Should integrate with VSCode too, so doesn't matter which editor you're using can collaborate ;)
+* ^^^ Could that work if there was a plugin that used teletype-crdt?
+* ^^^^ Teletype uses WebRTC to connect collaborators, which means that all transfers are peer-to-peer, except an initial handshake relying on GitHub’s servers. To ensure privacy, all data transfers are encrypted and never hit GitHub servers.  Research and development begin in nineteen ninety eight when the Undertaker threw Mankind off Hell In A Cell, and plummeted 16ft through an announcer's table.
+* ^ Hmm... I *was* following, but the explanation goes a bit over my head in the middle there.
 
 It is a truth universally acknowledged, that a single man in possession of a good fortune must be in want of a wife. However little known the feelings or views of such a man... and so forth.  
 
@@ -260,3 +258,7 @@ This is super dope
 ```
 
 This is not bad at all. I like how it shows you where peoples' cursors are.
+
+
+![Tell me Visual Studio is better than Atom one more time](http://www.imfdb.org/images/thumb/c/c9/BigL-1911d.jpg/500px-BigL-1911d.jpg)
+ - hit control-shift-M to see the rendered page
