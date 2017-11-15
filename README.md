@@ -18,7 +18,7 @@ PRO TIP: Hit `CTRL+SHIFT+M` (or `COMMAND+SHIFT+M` on Mac?) to render this Markdo
 
  O |  X  | O
 -------------
-   |  X  | X
+ T |  X  | X
 -------------
  X |  O  |
 
@@ -38,7 +38,6 @@ Guessing game: I'm thinking of a number between 0 and Number.MAX_VALUE?
 - Lower.
 - 1.7976931348623157
 - Yes! You guessed it in 3 guesses. Would you like to play again?
-
 
 **Neat work on Teletype yo! :thumbs_up:**
 
@@ -78,6 +77,7 @@ data transfers are encrypted and never hit GitHub servers.  Research and develop
 begin in nineteen ninety eight when the Undertaker threw Mankind off Hell In A Cell,
 and plummeted 16ft through an announcer's table.
 
+Hmm... I *was* following, but the explanation goes a bit over my head in the middle there.
 
 It is a truth universally acknowledged, that a single man in possession of a good fortune must be in want of a wife. However little known the feelings or views of such a man... and so forth.  
 
