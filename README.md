@@ -21,6 +21,9 @@ PRO TIP: Hit `CTRL+SHIFT+M` (or `COMMAND+SHIFT+M` on Mac?) to render this Markdo
 - Google Wave was da bomb! (+1... sad it died)
 🎊🎉
 
+ ** So is this one file only? Are there other files in the project? How do I see them? **
+^ You can only edit one file-at-a-time - there's two files in this project, but only the host gets to drive the show atm.
+
 interesting.  vim-mode-plus already crashed this for me.  can anyone read this? yep
 ^ I had some problems earlier on with linters trying to lint files on other people's hard drives :-P
 
@@ -211,3 +214,11 @@ A sysop has entered the chat.
    ┬──┬ ノ( ゜-゜ノ)
 
 oh, bbs i miss thee
+
+
+
+   |   X  |
+-------------
+   |     |
+-------------
+   |     |
