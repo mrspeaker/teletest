@@ -191,10 +191,18 @@ Looks like we need to go deeper!
                    MM MM MM MM
                    MM MM MM MM
                 .~~MM~MM~MM~MM~~.
-             ~~~~MM:~MM~~~MM~:MM~~~~
-        ~~~~~~==~==~~~==~==~~~~~~
-             ~~~~~~==~==~==~==~~~~~~quick test of teletype
-                 :~==~==~==~==~~ s l o w  t e s t  o f  t e l e t y p e
+            quick test of teletype
+                s l o w  t e s t  o f  t e l e t y p e
+
+Oh, hi there!
+
+This is basically like...a chat room. Maybe Atom is the next Slack killer.
+That's ideal.
+
+Yeah, but if your boss looks over your shoulder it looks like you're coding.
+
+*waves!*
+
 
 *End of line*
 *End of file* [fake news]
@@ -255,7 +263,6 @@ oh, bbs i miss thee
 
 
 This is super dope
-```
 
 This is not bad at all. I like how it shows you where peoples' cursors are.
 
