@@ -6,7 +6,8 @@ Eventually, the initiator of this session will close it and we'll not be able to
 		- reconaissance. (I work at GitHub so this is actually related to my work.)  add voice chat to this.
 
 *HERE YOU GO! [TeleTest](https://github.com/mrspeaker/teletest)*
-		Woo! Thanks @mrspeaker!  xD no problem xD
+		Woo! Thanks @mrspeaker!  
+    xD no problem xD - need to automate the commiting!
 Neat work :thumbs_up:
 
 - Google Wave 2.0!   <-- notice what happens when I put an ampersand (what?) (give it a try)
