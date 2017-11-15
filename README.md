@@ -194,14 +194,7 @@ Looks like we need to go deeper!
             quick test of teletype
                 s l o w  t e s t  o f  t e l e t y p e
 
-Oh, hi there!
-
-This is basically like...a chat room. Maybe Atom is the next Slack killer.
-That's ideal.
-
-Yeah, but if your boss looks over your shoulder it looks like you're coding.
-
-*waves!*
+*waves*
 
 
 *End of line*
@@ -216,7 +209,7 @@ Yeah, but if your boss looks over your shoulder it looks like you're coding.
 ╚══════╝ ╚═════╝╚═╝  ╚═╝╚═╝  ╚═╝   ╚═╝    ╚═════╝╚═╝  ╚═╝    ╚═╝     ╚═╝  ╚═╝╚═════╝
 ```
 
-This is dope as hell ¯\_(ツ)_/¯
+This is dope as hell ¯\_(ツ)_/¯  \_
 
 Whoever is sharing this can also switch files I believe.
 (yeah - but I kinda like this crazy big file now ;)
