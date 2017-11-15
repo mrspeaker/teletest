@@ -11,7 +11,7 @@ Eventually, the initiator of this session will close it and we'll not be able to
 
 **Neat work on Teletype yo! :thumbs_up:**
 
-- Google Wave 2.0!   <-- notice what happens when I put an ampersand (what?) (give it a try)
+- Google Wave 2.0! <-- notice what happens when I put an ampersand (what?) (give it a try)
 		- that's an issue with the markdown highlighting.yup. issue raised already.
 - Google Wave was da bomb! (+1... sad it died)
 🎊🎉
@@ -40,11 +40,19 @@ Wow, [teletype-crdt](https://github.com/atom/teletype-crdt) looks REALLY cool...
 
 ```js
 const pretendingToWork = true;
+
+const primes = [2, 3, 5, 7, 11, 13, 17, 19, 23, 29, 31, 37, 41, 43, 47, 53, 59, 61, 67, 71, 73, 79, 83, 89, 97];
 ```
 
 ```python
-pretending_to_work = True
+primelist = lambda n : [x for x in range(2, n) if not 0 in map(lambda z : x % z, range(2,x))]
+primelist(100)
 ```
+
+This is working pretty well with a bunch of people :)
+   - how do we know they aren't bots?  this is 2017, after all.  fake code.
+	 - Please click each image of a tree to prove you are not a robot
+	 - AHHHHHHhhhhhhhh!!! whew.  ok, that was bad.
 
 can I inject malicious code here that runs on your pc?
 ^ Atom doesn't automatically run code in the editor. It'd require someone actually doing something to execute it. So the general rule of thumb is don't pair with people you don't trust. Except in Markdown documents maybe. :)
