@@ -12,9 +12,11 @@ Eventually, the initiator of this session will close it and we'll not be able to
 
 PRO TIP: Hit `CTRL+SHIFT+M` (or `COMMAND+SHIFT+M` on Mac?) to render this Markdown document in another pane. It updates with all the live changes.
 
+:point_up: It's `CTRL+SHIFT+M` on mac too!
+
 **Neat work on Teletype yo! :thumbs_up:**
 
-- Google Wave 2.0! <-- notice what happens when I put an ampersand (what?) (give it a try)
+- Google Wave 2.0! <-- notice what happens when I put an ampersand (what?) (give it a try)(where?)
 		- that's an issue with the markdown highlighting.yup. issue raised already.
 - Google Wave was da bomb! (+1... sad it died)
 🎊🎉
@@ -56,8 +58,10 @@ Wow, [teletype-crdt](https://github.com/atom/teletype-crdt) looks REALLY cool...
 ```js
 const pretendingToWork = true;
 
-const primes = [2, 3, 5, 7, 11, 13, 17, 19, 23, 29, 31, 37, 41, 43, 47, 53, 59, 61, 67, 71, 73, 79, 83, 89, 97];
+const primes = [2, 3, 5, 7, 11, 13, 17, 19, 23, 29, 31, 37, 41, 47, 53, 59, 61, 67, 71, 73, 79, 83, 89, 97];
 ```
+
+I stole a prime, and it opened up my eyes I stole a prime...
 
 ```python
 primelist = lambda n : [x for x in range(2, n) if not 0 in map(lambda z : x % z, range(2,x))]
