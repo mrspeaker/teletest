@@ -25,6 +25,10 @@ PRO TIP: Hit `CTRL+SHIFT+M` (or `COMMAND+SHIFT+M` on Mac?) to render this Markdo
 Wouldn't you rather play a nice game of chess?
 - Baby steps, let's do tic tac toe first 😉
 
+Guessing game: I'm thinking of a number between 0 and Number.MAX_VALUE?
+
+
+
 **Neat work on Teletype yo! :thumbs_up:**
 
 - Google Wave 2.0! <-- notice what happens when I put an ampersand (what?) (give it a try)(where?)
