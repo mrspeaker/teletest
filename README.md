@@ -2,7 +2,7 @@
 
 Eventually, the initiator of this session will close it and we'll not be able to join in anymore. Would love to see the end result posted somewhere. :)
 
-	1. Who cares?
+	1. Who cares? xD
 	2. Shouldn't you be working, anyway? (Yes. But this is more fun. Also, I just told folks I _am_ working.)
 		- reconnaissance. (I work at GitHub so this is actually related to my work.)  add voice chat to this.
 
@@ -22,7 +22,7 @@ PRO TIP: Hit `CTRL+SHIFT+M` (or `COMMAND+SHIFT+M` on Mac?) to render this Markdo
 -------------
  X |  O  | X
 
-- Controversial move there by X... let's see how O comes back... The atmosphere here is tense. The crowd knows what's at stake... *OH, look at that!* A quick 1-2 by X and O and a block by O... we haven't seen this kind of aggression in naughts n crosses since 1974 grand championship where 3 people died...
+- Controversial move there by X... let's see how O comes back... The atmosphere here is tense. The crowd knows what's at stake... *OH, look at that!* A quick 1-2 by X and O and a block by O... we haven't seen this kind of aggression in naughts n crosses since 1974 grand championship where 3 people died... Disappointing end. Just like the grand championship of 1975.
 
 - Good point Cotton, let's see if it pays off him.
  I can't figure out which cursor is mine haha
@@ -31,8 +31,31 @@ PRO TIP: Hit `CTRL+SHIFT+M` (or `COMMAND+SHIFT+M` on Mac?) to render this Markdo
  It seems like sometimes you can steal someone's cursor... occasionally the position jumps.
 
 Wouldn't you rather play a nice game of chess?
-- Global thermonuclear war.
+- Global thermonuclear war. ☃️
 - Baby steps, let's do tic tac toe first 😉
+
+_________________________________
+| r | n | b | q | k | b | n | r |
+_________________________________
+| p | p | p | p | p | p | p | p |
+_________________________________
+|   |   |   |   |   |   |   |   |
+_________________________________
+|   |   |   |   |   |   |   |   |
+_________________________________
+|   |   |   |   |   |   |   |   |
+_________________________________
+|   |   |   |   |   |   |   |   |
+_________________________________
+| P | P | P | P | P | P | P | P |
+_________________________________
+| R | N | B | Q | K | B | N | R |
+_________________________________
+
+CAPS: black
+lower: white
+
+
 
 Guessing game: I'm thinking of a number between 0 and Number.MAX_VALUE?
 - 1?
@@ -48,6 +71,10 @@ Guessing game: I'm thinking of a number between 0 and Number.MAX_VALUE?
 		- that's an issue with the markdown highlighting.yup. issue raised already.
 - Google Wave was da bomb! (+1... sad it died)
 🎊🎉
+
+----
+A lot of interesting emergent behavior here. (Almost the same reason I was excited about Google Wave.)
+----
 
  ** So is this one file only? Are there other files in the project? How do I see them? **
 ^ You can only edit one file-at-a-time - there's two files in this project, but only the host gets to drive the show atm.
