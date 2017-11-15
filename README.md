@@ -1,13 +1,14 @@
 # Teletest
 
 Eventually, the initiator of this session will close it and we'll not be able to join in anymore. Would love to see the end result posted somewhere. :)
+
 	1. who cares?
 	2. shouldn't you be working , anyway? (Yes. But this is more fun. Also, I just told folks I _am_ working.)
 		- reconaissance. (I work at GitHub so this is actually related to my work.)  add voice chat to this.
 
 *HERE YOU GO! [TeleTest](https://github.com/mrspeaker/teletest)*
 		Woo! Thanks @mrspeaker!  
-    xD no problem xD - need to automate the committing!
+    - No problem xD - need to automate the committing!
 
 **Neat work on Teletype yo! :thumbs_up:**
 
