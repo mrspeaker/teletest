@@ -14,6 +14,16 @@ PRO TIP: Hit `CTRL+SHIFT+M` (or `COMMAND+SHIFT+M` on Mac?) to render this Markdo
 
 :point_up: It's `CTRL+SHIFT+M` on mac too!
 
+**tic tac toe:**
+
+   |  X  |
+-------------
+   |     |
+-------------
+   |     |
+
+Wouldn't you rather play a nice game of chess?
+
 **Neat work on Teletype yo! :thumbs_up:**
 
 - Google Wave 2.0! <-- notice what happens when I put an ampersand (what?) (give it a try)(where?)
@@ -214,11 +224,3 @@ A sysop has entered the chat.
    ┬──┬ ノ( ゜-゜ノ)
 
 oh, bbs i miss thee
-
-
-
-   |   X  |
--------------
-   |     |
--------------
-   |     |
