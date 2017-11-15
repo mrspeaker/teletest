@@ -23,6 +23,7 @@ PRO TIP: Hit `CTRL+SHIFT+M` (or `COMMAND+SHIFT+M` on Mac?) to render this Markdo
    |     |
 
 Wouldn't you rather play a nice game of chess?
+- Baby steps, let's do tic tac toe first 😉
 
 **Neat work on Teletype yo! :thumbs_up:**
 
