@@ -16,17 +16,24 @@ PRO TIP: Hit `CTRL+SHIFT+M` (or `COMMAND+SHIFT+M` on Mac?) to render this Markdo
 
 **tic tac toe:**
 
+ O |  X  | O
+-------------
    |  X  |
 -------------
-   |     |
--------------
-   |     |
+ X |  O  |
+
+- Controversial move there by X... let's see how O comes back... The atmosphere here is tense. The crowd knows what's at stake... *OH, look at that!* A quick 1-2 by X and O and a block by O... we haven't seen this kind of aggression in naughts n crosses since 1974 grand championship where 3 people died...
+
+- Good point Cotton, let's see if it pays off him.
+ I can't figure out which cursor is mine haha
+ It seems like sometimes you can steal someone's cursor... the postion jumps.
 
 Wouldn't you rather play a nice game of chess?
 - Baby steps, let's do tic tac toe first 😉
 
 Guessing game: I'm thinking of a number between 0 and Number.MAX_VALUE?
-
+- 1?
+- Higher.
 
 
 **Neat work on Teletype yo! :thumbs_up:**
@@ -229,3 +236,6 @@ A sysop has entered the chat.
    ┬──┬ ノ( ゜-゜ノ)
 
 oh, bbs i miss thee
+
+
+This is super dope!
