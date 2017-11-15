@@ -16,11 +16,13 @@ PRO TIP: Hit `CTRL+SHIFT+M` (or `COMMAND+SHIFT+M` on Mac?) to render this Markdo
 
 **tic tac toe:**
 
+```
  O |  X  | O
 -------------
  T |  X  | X
 -------------
  X |  O  | X
+```
 
 - Controversial move there by X... let's see how O comes back... The atmosphere here is tense. The crowd knows what's at stake... *OH, look at that!* A quick 1-2 by X and O and a block by O... we haven't seen this kind of aggression in naughts n crosses since 1974 grand championship where 3 people died... Disappointing end. Just like the grand championship of 1975.
 
@@ -33,7 +35,7 @@ PRO TIP: Hit `CTRL+SHIFT+M` (or `COMMAND+SHIFT+M` on Mac?) to render this Markdo
 Wouldn't you rather play a nice game of chess?
 - Global thermonuclear war. ☃️
 - Baby steps, let's do tic tac toe first 😉
-
+```
 _________________________________
 | r | n | b | q | k | b | n | r |
 _________________________________
@@ -54,8 +56,8 @@ _________________________________
 
 CAPS: black
 lower: white
-
-
+```
+___________________________________
 
 Guessing game: I'm thinking of a number between 0 and Number.MAX_VALUE?
 - 1?
@@ -285,6 +287,11 @@ oh, bbs i miss thee
 This is super dope
 
 This is not bad at all. I like how it shows you where peoples' cursors are.
+
+Love this. This should be pretty good for document collaboration!
+
+__Sometimes it refreshes to an empty screen!__
+
 
 
 ![Tell me Visual Studio is better than Atom one more time](http://www.imfdb.org/images/thumb/c/c9/BigL-1911d.jpg/500px-BigL-1911d.jpg)
