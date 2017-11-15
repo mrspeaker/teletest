@@ -34,7 +34,8 @@ Wouldn't you rather play a nice game of chess?
 Guessing game: I'm thinking of a number between 0 and Number.MAX_VALUE?
 - 1?
 - Higher.
-
+- 2?
+- Lower.
 
 **Neat work on Teletype yo! :thumbs_up:**
 
@@ -238,4 +239,4 @@ A sysop has entered the chat.
 oh, bbs i miss thee
 
 
-This is super dope!
+This is super dope
