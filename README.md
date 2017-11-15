@@ -7,8 +7,9 @@ Eventually, the initiator of this session will close it and we'll not be able to
 
 *HERE YOU GO! [TeleTest](https://github.com/mrspeaker/teletest)*
 		Woo! Thanks @mrspeaker!  
-    xD no problem xD - need to automate the commiting!
-Neat work :thumbs_up:
+    xD no problem xD - need to automate the committing!
+
+**Neat work on Teletype yo! :thumbs_up:**
 
 - Google Wave 2.0!   <-- notice what happens when I put an ampersand (what?) (give it a try)
 		- that's an issue with the markdown highlighting.yup. issue raised already.
