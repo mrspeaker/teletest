@@ -1,6 +1,8 @@
 # Teletest
 
-Eventually, the initiator of this session will close it and we'll not be able to join in anymore. Would love to see the end result posted somewhere. :) .... [Battery at 15%... the end is nigh]
+Eventually, the initiator of this session will close it and we'll not be able to join in anymore. Would love to see the end result posted somewhere. :) .... [Battery at 12%... the end is nigh]
+
+Hello Peeps!
 
 	1. Who cares? xD
 	2. Shouldn't you be working, anyway? (Yes. But this is more fun. Also, I just told folks I _am_ working.)
@@ -35,6 +37,7 @@ PRO TIP: Hit `CTRL+SHIFT+M` (or `COMMAND+SHIFT+M` on Mac?) to render this Markdo
 Wouldn't you rather play a nice game of chess?
 - Global thermonuclear war. ☃️
 - Baby steps, let's do tic tac toe first 😉
+
 ```
 _________________________________
 | r | n | b | q | k | b | n | r |
@@ -45,11 +48,11 @@ _________________________________
 _________________________________
 |   |   |   |   |   | p |   |   |
 _________________________________
-|   |   |   |   |   |   |   |   |
+|   |   |   | P |   |   |   |   |
 _________________________________
 |   |   |   |   |   |   |   |   |
 _________________________________
-| P | P | P | P | P | P | P | P |
+| P | P | P |   | P | P | P | P |
 _________________________________
 | R | N | B | Q | K | B | N | R |
 _________________________________
@@ -57,6 +60,12 @@ _________________________________
 CAPS: black
 lower: white
 ```
+
+Oof, vim-mode-plus might not play nice with Teletype
+
+Actually, looks like vim-mode-plus doesn't play nice with... the escape key?
+
+*crawls back to vim*
 ___________________________________
 
 Guessing game: I'm thinking of a number between 0 and Number.MAX_VALUE?
