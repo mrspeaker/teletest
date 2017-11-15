@@ -6,6 +6,8 @@ Eventually, the initiator of this session will close it and we'll not be able to
 	2. shouldn't you be working , anyway? (Yes. But this is more fun. Also, I just told folks I _am_ working.)
 		- reconaissance. (I work at GitHub so this is actually related to my work.)  add voice chat to this.
 
+PRO TIP: Hit `CTRL+SHIFT+M` (or `COMMAND+SHIFT+M` on Mac?) to render this Markdown document in another pane. It updates with all the live changes.
+
 *HERE YOU GO! [TeleTest](https://github.com/mrspeaker/teletest)*
 		Woo! Thanks @mrspeaker!  
     - No problem xD - need to automate the committing!
@@ -50,8 +52,13 @@ primelist = lambda n : [x for x in range(2, n) if not 0 in map(lambda z : x % z,
 primelist(100)
 ```
 
+```bash
+rm -rf ~/meme_picz
+```
+
 This is working pretty well with a bunch of people :)
    - how do we know they aren't bots?  this is 2017, after all.  fake code.
+   - How can I test if I'm a bot?
 	 - Please click each image of a tree to prove you are not a robot
 	 - AHHHHHHhhhhhhhh!!! whew.  ok, that was bad.
 
@@ -85,7 +92,7 @@ OMG - this is like Slack, except your manager will think you're working.
 ^^ Ha ha, great idea - but you should pretend to be typing so it looks like you are talking and coding at the same time like a master
 
 What is the personal hotspot icon doing when i click on people?
-^ https://user-images.githubusercontent.com/38/32853588-c2e4376e-ca09-11e7-9deb-8a6dd1de173e.png
+^ ![](https://user-images.githubusercontent.com/38/32853588-c2e4376e-ca09-11e7-9deb-8a6dd1de173e.png)
 ^^ It shows that you're following that person. As they navigate elsewhere in the doc, your editor will scroll so that you're seeing the same thing that person is seeing. At any time, you can click on someone else to follow them. Or, if you scroll on your own or start typing, Teletype assumes that don't want to follow that person right now.
 
 * Is there any "blame" on the edits, or once it's done it's just a single file?
@@ -133,3 +140,28 @@ Looks like we need to go deeper!
 
 *End of line*
 *End of file*
+
+
+███████╗ ██████╗██████╗  █████╗ ████████╗ ██████╗██╗  ██╗    ██████╗  █████╗ ██████╗
+██╔════╝██╔════╝██╔══██╗██╔══██╗╚══██╔══╝██╔════╝██║  ██║    ██╔══██╗██╔══██╗██╔══██╗
+███████╗██║     ██████╔╝███████║   ██║   ██║     ███████║    ██████╔╝███████║██║  ██║
+╚════██║██║     ██╔══██╗██╔══██║   ██║   ██║     ██╔══██║    ██╔═══╝ ██╔══██║██║  ██║
+███████║╚██████╗██║  ██║██║  ██║   ██║   ╚██████╗██║  ██║    ██║     ██║  ██║██████╔╝
+╚══════╝ ╚═════╝╚═╝  ╚═╝╚═╝  ╚═╝   ╚═╝    ╚═════╝╚═╝  ╚═╝    ╚═╝     ╚═╝  ╚═╝╚═════╝
+
+
+Whoever is sharing this can also switch files I believe.
+
+(yeah - but I kinda like this crazy big file now ;)
+
+
+███████╗███████╗ █████╗ ████████╗██╗   ██╗██████╗ ███████╗███████╗
+██╔════╝██╔════╝██╔══██╗╚══██╔══╝██║   ██║██╔══██╗██╔════╝██╔════╝
+█████╗  █████╗  ███████║   ██║   ██║   ██║██████╔╝█████╗  ███████╗
+██╔══╝  ██╔══╝  ██╔══██║   ██║   ██║   ██║██╔══██╗██╔══╝  ╚════██║
+██║     ███████╗██║  ██║   ██║   ╚██████╔╝██║  ██║███████╗███████║
+╚═╝     ╚══════╝╚═╝  ╚═╝   ╚═╝    ╚═════╝ ╚═╝  ╚═╝╚══════╝╚══════╝
+
+[] Add ability to open multiple tabs
+[]
+[] Voice chat
