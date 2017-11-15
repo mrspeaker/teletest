@@ -1,8 +1,6 @@
 # Teletest
 
-Eventually, the initiator of this session will close it and we'll not be able to join in anymore. Would love to see the end result posted somewhere. :) .... [Battery at 12%... the end is nigh]
-
-Hello Peeps!
+Eventually, the initiator of this session will close it and we'll not be able to join in anymore. Would love to see the end result posted somewhere. :)
 
 	1. Who cares? xD
 	2. Shouldn't you be working, anyway? (Yes. But this is more fun. Also, I just told folks I _am_ working.)
