@@ -20,13 +20,15 @@ PRO TIP: Hit `CTRL+SHIFT+M` (or `COMMAND+SHIFT+M` on Mac?) to render this Markdo
 -------------
  T |  X  | X
 -------------
- X |  O  |
+ X |  O  | X
 
 - Controversial move there by X... let's see how O comes back... The atmosphere here is tense. The crowd knows what's at stake... *OH, look at that!* A quick 1-2 by X and O and a block by O... we haven't seen this kind of aggression in naughts n crosses since 1974 grand championship where 3 people died...
 
 - Good point Cotton, let's see if it pays off him.
  I can't figure out which cursor is mine haha
- It seems like sometimes you can steal someone's cursor... the position jumps.
+ ^ This teletype session has been running for ~1h, and heaps of people have joined and left... i think it ran out of colors and now everyone is just blue cursor!
+
+ It seems like sometimes you can steal someone's cursor... occasionally the position jumps.
 
 Wouldn't you rather play a nice game of chess?
 - Baby steps, let's do tic tac toe first 😉
@@ -76,8 +78,7 @@ except an initial handshake relying on GitHub’s servers. To ensure privacy, al
 data transfers are encrypted and never hit GitHub servers.  Research and development
 begin in nineteen ninety eight when the Undertaker threw Mankind off Hell In A Cell,
 and plummeted 16ft through an announcer's table.
-
-Hmm... I *was* following, but the explanation goes a bit over my head in the middle there.
+^ Hmm... I *was* following, but the explanation goes a bit over my head in the middle there.
 
 It is a truth universally acknowledged, that a single man in possession of a good fortune must be in want of a wife. However little known the feelings or views of such a man... and so forth.  
 
@@ -124,6 +125,8 @@ can I inject malicious code here that runs on your pc?
 Would be cool to push code changes to production live... oh the chaos!
 ^ such choas! 🙉
 
+This needs to be regulated and taxed.  It's poisoning our children.  Well, not OUR children, but children.  My children don't use computers, nor smart phones.  Actually, I don't have children but that is completely beside the point.  The point is that it needs to be taxed, heavily, or programmers will abuse their use of it.
+
 ```
  __&__
 /     \
@@ -148,16 +151,20 @@ What is the personal hotspot icon doing when i click on people?
 ^ ![](https://user-images.githubusercontent.com/38/32853588-c2e4376e-ca09-11e7-9deb-8a6dd1de173e.png)
 ^^ It shows that you're following that person. As they navigate elsewhere in the doc, your editor will scroll so that you're seeing the same thing that person is seeing. At any time, you can click on someone else to follow them. Or, if you scroll on your own or start typing, Teletype assumes that don't want to follow that person right now.
 
-* Is there any "blame" on the edits, or once it's done it's just a single file?
+__Is there any "blame" on the edits, or once it's done it's just a single file?__
+
 ^ For now, it's a single file produced collaboratively by all participants. We're _very_ open to feedback about use cases that bring benefits to devs. So, let us know (https://discuss.atom.io/). :-)
 ^^ I think for 80% of cases that's good enough anyhoo... normally it wouldn't be randos editing
 ^^^ Indeed
 ^^ Yeah, in practice I'd imagine that the pair would discuss what to commit as they work.
 
-- How did you do the avatars? That's great how they reposition as you scroll.
+__How did you do the avatars? That's great how they reposition as you scroll__
+
 ^ Thanks! You can follow someone by clicking on their avatar, or you're free to roam the document on your own, in which case you see which participants are above your or below you.
 
-How many people can join? (remember when Google wave first went public and there were thousands of people on one document (wavelet? what were they called?)... that was chaos xD )
+__How many people can join?__
+
+(remember when Google wave first went public and there were thousands of people on one document (wavelet? what were they called?)... that was chaos xD )
 ^ We're not sure, but thanks to whomever started this for the stress test. Many of the Atom team are in here as curious about this question as you are. :)
 ^ Indeed! I expect the social constraints to outweigh the technical constraints. How many people is it _useful_ to write code with in real-time? 😀
 ^ We've used it for note-taking in meetings too which is handy and can involve a decent number of people
@@ -251,3 +258,5 @@ oh, bbs i miss thee
 
 This is super dope
 ```
+
+This is not bad at all. I like how it shows you where peoples' cursors are.
