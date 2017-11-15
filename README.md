@@ -8,7 +8,7 @@ Eventually, the initiator of this session will close it and we'll not be able to
 
 *HERE YOU GO! [TeleTest](https://github.com/mrspeaker/teletest)*
 		Woo! Thanks @mrspeaker!  
-    - No problem xD - need to automate the committing!
+    - No problem ;) Need to automate the committing now!
 
 PRO TIP: Hit `CTRL+SHIFT+M` (or `COMMAND+SHIFT+M` on Mac?) to render this Markdown document in another pane. It updates with all the live changes.
 
@@ -38,9 +38,10 @@ __What software would you use for group voice chat?  That seems to be the only m
 
 ^ While building Teletype, we used Slack calls for voice chat. Given that we're using WebRTC for peer-to-peer communication, we'd love to see voice chat integrated into Teletype one day. 🤞
 ^ yeah, please get on that next before Microsoft beats you to that feature.. or jetbrains
+^^ Should integrate with VSCode too, so doesn't matter which editor you're using can collaborate ;)
+^^^ Could that work if there was a plugin that used teletype-crdt?
 
-
-It is a truth universally acknowledged, that a single man in possession of a good fortune must be in want of a wife. However little known the feelings or views of such a man may be on... and so forth.  
+It is a truth universally acknowledged, that a single man in possession of a good fortune must be in want of a wife. However little known the feelings or views of such a man... and so forth.  
 
 This seems very nice. @jbrooksuk! :)
 Yeah, very slick!
@@ -175,10 +176,10 @@ Whoever is sharing this can also switch files I believe.
 ╚═╝     ╚══════╝╚═╝  ╚═╝   ╚═╝    ╚═════╝ ╚═╝  ╚═╝╚══════╝╚══════╝
 ```
 
-- [] Add ability to share all open tabs
-- [] Add ability to share entire workspace
+- [] Add ability to share multiple tabs
 - [] Voice chat
 - [] Better share links (integrate `atom://` protocol)
+- [] If sharing multiple open tabs, UI indication of activity
 
 
 ```
