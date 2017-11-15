@@ -55,6 +55,7 @@ can I inject malicious code here that runs on your pc?
 Would be cool to push code changes to production live... oh the choas!
 ^ such choas! 🙉
 
+```
  __&__
 /     \
 |       |
@@ -64,6 +65,7 @@ C   ,---_)
 |  \__/     is irrelevant.  Preparation is irrel...MMMmmm...doughnut!"
 /_____\
 /_____/ \   Craig E. Smith (csmith_cis_ohio-state_edu)
+```
 
 OMG - this is like Slack, except your manager will think you're working.
 ^ :point_up: (Not enough like Slack. :P).Is there an Atom package for turning :smile: into unicode emojis? Hmmm.... I think I may be nerd sniping myself.
