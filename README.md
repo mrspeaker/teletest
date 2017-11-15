@@ -4,13 +4,13 @@ Eventually, the initiator of this session will close it and we'll not be able to
 
 	1. who cares?
 	2. shouldn't you be working , anyway? (Yes. But this is more fun. Also, I just told folks I _am_ working.)
-		- reconaissance. (I work at GitHub so this is actually related to my work.)  add voice chat to this.
-
-PRO TIP: Hit `CTRL+SHIFT+M` (or `COMMAND+SHIFT+M` on Mac?) to render this Markdown document in another pane. It updates with all the live changes.
+		- reconnaissance. (I work at GitHub so this is actually related to my work.)  add voice chat to this.
 
 *HERE YOU GO! [TeleTest](https://github.com/mrspeaker/teletest)*
 		Woo! Thanks @mrspeaker!  
     - No problem xD - need to automate the committing!
+
+PRO TIP: Hit `CTRL+SHIFT+M` (or `COMMAND+SHIFT+M` on Mac?) to render this Markdown document in another pane. It updates with all the live changes.
 
 **Neat work on Teletype yo! :thumbs_up:**
 
