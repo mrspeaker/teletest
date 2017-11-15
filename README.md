@@ -18,7 +18,7 @@ PRO TIP: Hit `CTRL+SHIFT+M` (or `COMMAND+SHIFT+M` on Mac?) to render this Markdo
 
  O |  X  | O
 -------------
-   |  X  |
+   |  X  | X
 -------------
  X |  O  |
 
@@ -52,7 +52,7 @@ Guessing game: I'm thinking of a number between 0 and Number.MAX_VALUE?
 
 interesting.  vim-mode-plus already crashed this for me.  can anyone read this? yep
 ^ I had some problems earlier on with linters trying to lint files on other people's hard drives :-P
-^ See https://github.com/atom/teletype/pull/193 for the in-pro
+^ See https://github.com/atom/teletype/pull/193 for the in-progress VMP fix!
 
 __Can anyone create new files? Or only edit existing?__
 
@@ -72,6 +72,12 @@ __What software would you use for group voice chat?  That seems to be the only m
 ^ yeah, please get on that next before Microsoft beats you to that feature.. or jetbrains
 ^^ Should integrate with VSCode too, so doesn't matter which editor you're using can collaborate ;)
 ^^^ Could that work if there was a plugin that used teletype-crdt?
+^^^^ Teletype uses WebRTC to connect collaborators, which means that all transfers are peer-to-peer,
+except an initial handshake relying on GitHub’s servers. To ensure privacy, all
+data transfers are encrypted and never hit GitHub servers.  Research and development
+begin in nineteen ninety eight when the Undertaker threw Mankind off Hell In A Cell,
+and plummeted 16ft through an announcer's table.
+
 
 It is a truth universally acknowledged, that a single man in possession of a good fortune must be in want of a wife. However little known the feelings or views of such a man... and so forth.  
 
