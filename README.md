@@ -22,7 +22,7 @@ PRO TIP: Hit `CTRL+SHIFT+M` (or `COMMAND+SHIFT+M` on Mac?) to render this Markdo
 interesting.  vim-mode-plus already crashed this for me.  can anyone read this? yep
 ^ I had some problems earlier on with linters trying to lint files on other people's hard drives :-P
 
-Can anyone create new files? Or only edit existing?
+__Can anyone create new files? Or only edit existing?__
 ^ collaborators can edit the active file only, but the active file can change... (eg the portal host could switch to README2.md and that's what we'd all be seeing)
 	Imagine project sharing... oooh.
 	I was hoping it would share the entire project, but it's still pretty cool
@@ -33,14 +33,14 @@ Can anyone create new files? Or only edit existing?
 ^^ This is really sweet - great work!
 Glad you are liking it! :)
 
-What software would you use for group voice chat?  That seems to be the only missing part of a true collaboration.  Discord?
+__What software would you use for group voice chat?  That seems to be the only missing part of a true collaboration.  Discord?__
 ^ While building Teletype, we used Slack calls for voice chat. Given that we're using WebRTC for peer-to-peer communication, we'd love to see voice chat integrated into Teletype one day. 🤞
 
 It is a truth universally acknowledged, that a single man in possession of a good fortune must be in want of a wife. However little known the feelings or views of such a man may be on... and so forth.  
 
 This seems very nice. @jbrooksuk! :)
 Yeah, very slick!
-Anyone try it out in a remote pairing scenario yet?
+__Anyone try it out in a remote pairing scenario yet?__
 ^ We built Teletype for Atom across 2 continents and 3 timezones. So, yes. 😇
 *thumbs up emoji*
 
@@ -144,7 +144,7 @@ Looks like we need to go deeper!
                  :~==~==~==~==~~ s l o w  t e s t  o f  t e l e t y p e
 
 *End of line*
-*End of file*
+*End of file* [fake news]
 
 ```
 ███████╗ ██████╗██████╗  █████╗ ████████╗ ██████╗██╗  ██╗    ██████╗  █████╗ ██████╗
@@ -158,7 +158,6 @@ Looks like we need to go deeper!
 This is dope as hell ¯\_(ツ)_/¯
 
 Whoever is sharing this can also switch files I believe.
-
 (yeah - but I kinda like this crazy big file now ;)
 
 ```
@@ -172,8 +171,8 @@ Whoever is sharing this can also switch files I believe.
 
 - [] Add ability to share all open tabs
 - [] Add ability to share entire workspace
-- [] Voice chat
--
+- [] Voice/video chat
+- [] Better share links (integrate `atom://` protocol)
 
 
 ```
@@ -193,4 +192,6 @@ Whoever is sharing this can also switch files I believe.
      _..--"""````"""--.._                                               
 _.-'``                    ``'-._                                         
 -'                                '-
-```
+```        
+A sysop has entered the chat.
+   (╯°□°）╯︵ ┻━┻
