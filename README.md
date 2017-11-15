@@ -1,10 +1,10 @@
 # Teletest
 
-Eventually, the initiator of this session will close it and we'll not be able to join in anymore. Would love to see the end result posted somewhere. :)
+Eventually, the initiator of this session will close it and we'll not be able to join in anymore. Would love to see the end result posted somewhere. :) .... [Battery at 15%... the end is nigh]
 
 	1. Who cares? xD
 	2. Shouldn't you be working, anyway? (Yes. But this is more fun. Also, I just told folks I _am_ working.)
-		- reconnaissance. (I work at GitHub so this is actually related to my work.)  add voice chat to this.
+		- reconnaissance. (I work at GitHub so this is actually related to my work.)
 
 *HERE YOU GO! Logged for prosperity: [TeleTest](https://github.com/mrspeaker/teletest)*
 		Woo! Thanks @mrspeaker!  
@@ -39,11 +39,11 @@ Wouldn't you rather play a nice game of chess?
 _________________________________
 | r | n | b | q | k | b | n | r |
 _________________________________
-| p | p | p | p | p | p | p | p |
+| p | p | p | p | p |   | p | p |
 _________________________________
 |   |   |   |   |   |   |   |   |
 _________________________________
-|   |   |   |   |   |   |   |   |
+|   |   |   |   |   | p |   |   |
 _________________________________
 |   |   |   |   |   |   |   |   |
 _________________________________
@@ -106,6 +106,7 @@ __What software would you use for group voice chat?  That seems to be the only m
 * ^^^ Could that work if there was a plugin that used teletype-crdt?
 * ^^^^ Teletype uses WebRTC to connect collaborators, which means that all transfers are peer-to-peer, except an initial handshake relying on GitHub’s servers. To ensure privacy, all data transfers are encrypted and never hit GitHub servers.  Research and development begin in nineteen ninety eight when the Undertaker threw Mankind off Hell In A Cell, and plummeted 16ft through an announcer's table.
 * ^ Hmm... I *was* following, but the explanation goes a bit over my head in the middle there.
+* Would be cool if there was an optional chat too - like a hover chat or something, so you could collaborate without voice, but have a global chat area to keep synchronized with what you're doing
 
 It is a truth universally acknowledged, that a single man in possession of a good fortune must be in want of a wife. However little known the feelings or views of such a man... and so forth.  
 
@@ -152,7 +153,7 @@ can I inject malicious code here that runs on your pc?
 Would be cool to push code changes to production live... oh the chaos!
 ^ such choas! 🙉
 
-This needs to be regulated and taxed.  It's poisoning our children.  Well, not OUR children, but children.  My children don't use computers, nor smart phones.  Actually, I don't have children but that is completely beside the point.  The point is that it needs to be taxed, heavily, or programmers will abuse their use of it.
+This needs to be regulated and taxed.  It's poisoning our children.  Well, not OUR children, but children.  My children don't use computers, nor smart phones.  Actually, I don't have children but that is completely beside the point.  The point is that it needs to be taxed, heavily, or programmers will abuse it.
 
 ```
  __&__
@@ -253,7 +254,7 @@ Whoever is sharing this can also switch files I believe.
 ```
 
 - [] Add ability to share multiple tabs
-- [] Voice chat
+- [] Voice chat (speak by holding down shift key)
 - [] Better share links (integrate `atom://` protocol)
 - [] If sharing multiple open tabs, UI indication of activity
 
@@ -290,7 +291,7 @@ This is not bad at all. I like how it shows you where peoples' cursors are.
 
 Love this. This should be pretty good for document collaboration!
 
-__Sometimes it refreshes to an empty screen!__
+__Sometimes it refreshes to an empty screen!__ I think it's the host, saving to github
 
 
 
