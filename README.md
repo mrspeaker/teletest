@@ -23,6 +23,7 @@ interesting.  vim-mode-plus already crashed this for me.  can anyone read this? 
 ^ I had some problems earlier on with linters trying to lint files on other people's hard drives :-P
 
 __Can anyone create new files? Or only edit existing?__
+
 ^ collaborators can edit the active file only, but the active file can change... (eg the portal host could switch to README2.md and that's what we'd all be seeing)
 	Imagine project sharing... oooh.
 	I was hoping it would share the entire project, but it's still pretty cool
@@ -34,13 +35,16 @@ __Can anyone create new files? Or only edit existing?__
 Glad you are liking it! :)
 
 __What software would you use for group voice chat?  That seems to be the only missing part of a true collaboration.  Discord?__
+
 ^ While building Teletype, we used Slack calls for voice chat. Given that we're using WebRTC for peer-to-peer communication, we'd love to see voice chat integrated into Teletype one day. 🤞
 
 It is a truth universally acknowledged, that a single man in possession of a good fortune must be in want of a wife. However little known the feelings or views of such a man may be on... and so forth.  
 
 This seems very nice. @jbrooksuk! :)
 Yeah, very slick!
+
 __Anyone try it out in a remote pairing scenario yet?__
+
 ^ We built Teletype for Atom across 2 continents and 3 timezones. So, yes. 😇
 *thumbs up emoji*
 
@@ -195,3 +199,5 @@ _.-'``                    ``'-._
 ```        
 A sysop has entered the chat.
    (╯°□°）╯︵ ┻━┻
+
+oh, bbs i miss thee
