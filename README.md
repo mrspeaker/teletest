@@ -37,7 +37,7 @@ __Can anyone create new files? Or only edit existing?__
 Glad you are liking it! :)
 
 __What software would you use for group voice chat?  That seems to be the only missing part of a true collaboration.  Discord?__
-
+^riot.im seems interesting
 ^ While building Teletype, we used Slack calls for voice chat. Given that we're using WebRTC for peer-to-peer communication, we'd love to see voice chat integrated into Teletype one day. 🤞
 ^ yeah, please get on that next before Microsoft beats you to that feature.. or jetbrains
 ^^ Should integrate with VSCode too, so doesn't matter which editor you're using can collaborate ;)
@@ -61,7 +61,8 @@ const pretendingToWork = true;
 const primes = [2, 3, 5, 7, 11, 13, 17, 19, 23, 29, 31, 37, 41, 47, 53, 59, 61, 67, 71, 73, 79, 83, 89, 97];
 ```
 
-I stole a prime, and it opened up my eyes I stole a prime...
+♪♫ I stole a prime, and it opened up my eyes I stole a prime
+Math is demanding without my understanding ♪♫♬...wuh, oh ohhh
 
 ```python
 primelist = lambda n : [x for x in range(2, n) if not 0 in map(lambda z : x % z, range(2,x))]
@@ -206,5 +207,7 @@ _.-'``                    ``'-._
 ```        
 A sysop has entered the chat.
    (╯°□°）╯︵ ┻━┻
+
+   ┬──┬ ノ( ゜-゜ノ)
 
 oh, bbs i miss thee
