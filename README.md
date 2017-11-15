@@ -25,6 +25,11 @@ interesting.  vim-mode-plus already crashed this for me.  can anyone read this? 
 Can anyone create new files? Or only edit existing?
 ^ collaborators can edit the active file only, but the active file can change... (eg the portal host could switch to README2.md and that's what we'd all be seeing)
 	Imagine project sharing... oooh.
+	I was hoping it would share the entire project, but it's still pretty cool
+  ^ Can everyone see the other filenames in the project? (There are 2 files - README.md and README2.md)
+	Whoa, stole your focus, that was weird
+	I cannot see the other filenames...I think
+	Wow, that was abrupt...definitely need some form of communication as well.
 ^^ This is really sweet - great work!
 Glad you are liking it! :)
 
@@ -68,7 +73,7 @@ can I inject malicious code here that runs on your pc?
 **I trust you lot** (AWWWW!)
 ^ "I TRUST YOU" https://www.youtube.com/watch?v=jhInj0ZHNC8
 
-Would be cool to push code changes to production live... oh the choas!
+Would be cool to push code changes to production live... oh the chaos!
 ^ such choas! 🙉
 
 ```
@@ -141,27 +146,51 @@ Looks like we need to go deeper!
 *End of line*
 *End of file*
 
-
+```
 ███████╗ ██████╗██████╗  █████╗ ████████╗ ██████╗██╗  ██╗    ██████╗  █████╗ ██████╗
 ██╔════╝██╔════╝██╔══██╗██╔══██╗╚══██╔══╝██╔════╝██║  ██║    ██╔══██╗██╔══██╗██╔══██╗
 ███████╗██║     ██████╔╝███████║   ██║   ██║     ███████║    ██████╔╝███████║██║  ██║
 ╚════██║██║     ██╔══██╗██╔══██║   ██║   ██║     ██╔══██║    ██╔═══╝ ██╔══██║██║  ██║
 ███████║╚██████╗██║  ██║██║  ██║   ██║   ╚██████╗██║  ██║    ██║     ██║  ██║██████╔╝
 ╚══════╝ ╚═════╝╚═╝  ╚═╝╚═╝  ╚═╝   ╚═╝    ╚═════╝╚═╝  ╚═╝    ╚═╝     ╚═╝  ╚═╝╚═════╝
+```
 
+This is dope as hell ¯\_(ツ)_/¯
 
 Whoever is sharing this can also switch files I believe.
 
 (yeah - but I kinda like this crazy big file now ;)
 
-
+```
 ███████╗███████╗ █████╗ ████████╗██╗   ██╗██████╗ ███████╗███████╗
 ██╔════╝██╔════╝██╔══██╗╚══██╔══╝██║   ██║██╔══██╗██╔════╝██╔════╝
 █████╗  █████╗  ███████║   ██║   ██║   ██║██████╔╝█████╗  ███████╗
 ██╔══╝  ██╔══╝  ██╔══██║   ██║   ██║   ██║██╔══██╗██╔══╝  ╚════██║
 ██║     ███████╗██║  ██║   ██║   ╚██████╔╝██║  ██║███████╗███████║
 ╚═╝     ╚══════╝╚═╝  ╚═╝   ╚═╝    ╚═════╝ ╚═╝  ╚═╝╚══════╝╚══════╝
+```
 
-[] Add ability to open multiple tabs
-[]
-[] Voice chat
+- [] Add ability to share all open tabs
+- [] Add ability to share entire workspace
+- [] Voice chat
+-
+
+
+```
+        Atom Editor BBS.
+		  Running: Telegard 2.7
+              /\                                                        
+            .'  '.   *                                                  
+    *      /======\      +                                              
+          ;:.  _   ;        
+          |:. (_)  |       
+          |:.  _   |                                                    
+          |:. (_)  |          *                                         
++         ;:.      ;                                                    
+        .' \:.    / `.                                                  
+       / .-'':._.'`-. \                                                 
+       |/    /||\    \|                                                 
+     _..--"""````"""--.._                                               
+_.-'``                    ``'-._                                         
+-'                                '-
+```
