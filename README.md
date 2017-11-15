@@ -26,7 +26,7 @@ PRO TIP: Hit `CTRL+SHIFT+M` (or `COMMAND+SHIFT+M` on Mac?) to render this Markdo
 
 - Good point Cotton, let's see if it pays off him.
  I can't figure out which cursor is mine haha
- It seems like sometimes you can steal someone's cursor... the postion jumps.
+ It seems like sometimes you can steal someone's cursor... the position jumps.
 
 Wouldn't you rather play a nice game of chess?
 - Baby steps, let's do tic tac toe first 😉
@@ -36,6 +36,9 @@ Guessing game: I'm thinking of a number between 0 and Number.MAX_VALUE?
 - Higher.
 - 2?
 - Lower.
+- 1.7976931348623157
+- Yes! You guessed it in 3 guesses. Would you like to play again?
+
 
 **Neat work on Teletype yo! :thumbs_up:**
 
@@ -49,6 +52,7 @@ Guessing game: I'm thinking of a number between 0 and Number.MAX_VALUE?
 
 interesting.  vim-mode-plus already crashed this for me.  can anyone read this? yep
 ^ I had some problems earlier on with linters trying to lint files on other people's hard drives :-P
+^ See https://github.com/atom/teletype/pull/193 for the in-pro
 
 __Can anyone create new files? Or only edit existing?__
 
@@ -240,3 +244,4 @@ oh, bbs i miss thee
 
 
 This is super dope
+```
