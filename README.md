@@ -37,6 +37,8 @@ Glad you are liking it! :)
 __What software would you use for group voice chat?  That seems to be the only missing part of a true collaboration.  Discord?__
 
 ^ While building Teletype, we used Slack calls for voice chat. Given that we're using WebRTC for peer-to-peer communication, we'd love to see voice chat integrated into Teletype one day. 🤞
+^ yeah, please get on that next before Microsoft beats you to that feature.. or jetbrains
+
 
 It is a truth universally acknowledged, that a single man in possession of a good fortune must be in want of a wife. However little known the feelings or views of such a man may be on... and so forth.  
 
@@ -175,7 +177,7 @@ Whoever is sharing this can also switch files I believe.
 
 - [] Add ability to share all open tabs
 - [] Add ability to share entire workspace
-- [] Voice/video chat
+- [] Voice chat
 - [] Better share links (integrate `atom://` protocol)
 
 
